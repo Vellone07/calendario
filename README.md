@@ -1,4 +1,4 @@
-[image](img/Captura%20de%20tela%202023-09-15%20095631.png)
+![image](img/Captura%20de%20tela%202023-09-15%20095631.png)
 # índice
 [Projeto - Calendario](calendario.git)  
 [Descrição](#descri%C3%A7%C3%A3o)  
@@ -8,7 +8,7 @@
 [Autores](#autores)  
 
 # 🚀 Projeto - Portifólio para escrita do README
-![image](img/Captura%20de%20tela%202023-09-05%20075747.png)
+
 ## 📋 Descrição
 
 Calendário interativo que permite acessar e fazer interações com o mesmo.
