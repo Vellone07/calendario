@@ -29,4 +29,4 @@ Como escrever um README incrível(https://gist.github.com/lohhans/f8da0b147550df
 
 ## 🙋‍♂️ Autores
 
-DAVI VELLONE E EMILY PESSOA
+[DAVI VELLONE](https://github.com/Vellone07)
