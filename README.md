@@ -13,9 +13,9 @@
 Calendário interativo que permite acessar e fazer interações com o mesmo.
 
 ## 🔧 Funcionalidades
-#EXIBIR CALENDÁRIO COM OS DIAS DO MÊS 
-#MARCAR OS DIAS DE SUA PREFERÊNCIA
-#PODER SELECIONAR ATÉ 4 CORES
+#EXIBIR CALENDÁRIO COM OS DIAS DO MÊS   
+#MARCAR OS DIAS DE SUA PREFERÊNCIA  
+#PODER SELECIONAR ATÉ 4 CORES  
 
 ### 🛠️ Tecnoligias utilizadas
 GIT  
