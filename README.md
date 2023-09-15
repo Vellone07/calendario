@@ -23,8 +23,8 @@ Calendário interativo que permite acessar e fazer interações com o mesmo.
 ### 🛠️ Tecnoligias utilizadas
 GIT  
 GITHUB  
-HTML  
-CSS  
+HTML 5  
+CSS 3  
 VSCODE  
 ##  📚 Fontes Consultadas
 
