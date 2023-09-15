@@ -10,11 +10,12 @@
 ![image](img/Captura%20de%20tela%202023-09-05%20075747.png)
 ## 📋 Descrição
 
-Calendário interativo que permite acessar e fazer interações com o mesmo
+Calendário interativo que permite acessar e fazer interações com o mesmo.
 
 ## 🔧 Funcionalidades
-
-Marcar dias,feriados e datas comemorativas
+#EXIBIR CALENDÁRIO COM OS DIAS DO MÊS 
+#MARCAR OS DIAS DE SUA PREFERÊNCIA
+#PODER SELECIONAR ATÉ 4 CORES
 
 ### 🛠️ Tecnoligias utilizadas
 GIT  
